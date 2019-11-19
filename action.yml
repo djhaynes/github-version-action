@@ -1,0 +1,12 @@
+name: 'Test'
+description: 'Test'
+author: 'djhaynes'
+# runs:
+#  using: 'docker'
+#  image: 'Dockerfile'
+# outputs:
+#  new_tag:
+#    description: 'Generated tag'
+# branding:
+#  icon: 'git-merge'  
+#  color: 'purple'
