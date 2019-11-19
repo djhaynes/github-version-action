@@ -4,5 +4,5 @@ author: 'djhaynes'
  runs:
   using: 'docker'
   image: 'Dockerfile'
- run:
+ run: echo 'Test'
  
